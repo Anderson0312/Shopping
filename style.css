@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(127, 225, 255);
+    padding: 20px;
+}
+
+nav {
+    display: flex;
+    padding: 10px;
+    background-color:black;
+}
+
+nav a {
+    margin-right: 15px;
+    background-color: gray;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+}
+
+nav a:hover {
+    background-color: 
+}
